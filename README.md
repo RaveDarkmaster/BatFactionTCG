@@ -6,7 +6,7 @@ If you have suggestions for cards or mechanics, feel free to message me on Disco
 # Usage
 
 ## Invite to existing server
-1. [Click this to invite your bot](https://discordapp.com/api/oauth2/authorize?client_id=545701080047026176&permissions=0&scope=bot)
+1. [Click this to invite your bot](https://discordapp.com/api/oauth2/authorize?client_id=824378092368822283&permissions=0&scope=bot)
 2. Use the =help and =tutorial commands to learn how to play the game!
 
 ## Create your own instance of the bot (with your own cards)
